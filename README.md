@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas de Faria</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 <h3 align="center">Versatly developer</h3>
-<a style="text-decoration:none, justify-self:center" href="Versatly.com" align="center">Versatly</a>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif">
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=pozapei&label=Profile%20views&color=0e75b6&style=flat" alt="pozapei" /> </p>
